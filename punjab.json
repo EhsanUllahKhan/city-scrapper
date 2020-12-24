@@ -11,7 +11,7 @@
                 "type": "Town"
             },
             {
-                "name": "Barthi, Punjab",
+                "name": "Barthi",
                 "type": "Town"
             },
             {
@@ -43,7 +43,7 @@
                 "type": "Town"
             },
             {
-                "name": "Dera Ghazi Khan Tehsil",
+                "name": "Dera Ghazi Khan",
                 "type": "Town"
             },
             {
@@ -51,7 +51,7 @@
                 "type": "City"
             },
             {
-                "name": "Drahma, Punjab",
+                "name": "Drahma",
                 "type": "Town"
             },
             {
@@ -63,7 +63,7 @@
                 "type": "Town"
             },
             {
-                "name": "Gadai, Punjab",
+                "name": "Gadai",
                 "type": "Town"
             },
             {
@@ -115,7 +115,7 @@
                 "type": "Town"
             },
             {
-                "name": "Lakhani, Punjab",
+                "name": "Lakhani",
                 "type": "Town"
             },
             {
@@ -155,7 +155,7 @@
                 "type": "Town"
             },
             {
-                "name": "Paigah, Punjab",
+                "name": "Paigah",
                 "type": "Town"
             },
             {
@@ -163,11 +163,11 @@
                 "type": "Town"
             },
             {
-                "name": "Ramin, Punjab",
+                "name": "Ramin",
                 "type": "Town"
             },
             {
-                "name": "Samina, Punjab",
+                "name": "Samina",
                 "type": "Town"
             },
             {
@@ -175,7 +175,7 @@
                 "type": "Town"
             },
             {
-                "name": "Sokar, Punjab",
+                "name": "Sokar",
                 "type": "Town"
             },
             {
@@ -220,7 +220,7 @@
                 "type": "UC"
             },
             {
-                "name": "Chapri, Mianwali",
+                "name": "Chapri",
                 "type": "Village"
             },
             {
@@ -232,7 +232,7 @@
                 "type": "Village"
             },
             {
-                "name": "Daud Khel, Punjab",
+                "name": "Daud Khel",
                 "type": "Town"
             },
             {
@@ -244,11 +244,11 @@
                 "type": "Village"
             },
             {
-                "name": "Doaba, Mianwali",
+                "name": "Doaba",
                 "type": "Town"
             },
             {
-                "name": "Gujrat, Mianwali",
+                "name": "Gujrat",
                 "type": "Town"
             },
             {
@@ -268,7 +268,7 @@
                 "type": "Town"
             },
             {
-                "name": "Kallur, Punjab",
+                "name": "Kallur",
                 "type": "Town"
             },
             {
@@ -304,7 +304,7 @@
                 "type": "Village"
             },
             {
-                "name": "Mari, Punjab",
+                "name": "Mari",
                 "type": "Village"
             },
             {
@@ -344,7 +344,7 @@
                 "type": "Village"
             },
             {
-                "name": "Shadia, Punjab",
+                "name": "Shadia",
                 "type": "Town"
             },
             {
@@ -352,7 +352,7 @@
                 "type": "Village"
             },
             {
-                "name": "Swans, Punjab",
+                "name": "Swans",
                 "type": "Village"
             },
             {
@@ -376,7 +376,7 @@
                 "type": "Village"
             },
             {
-                "name": "Vanjari, Punjab",
+                "name": "Vanjari",
                 "type": "Town"
             },
             {
@@ -450,11 +450,11 @@
         "name": "Khanewal",
         "cities": [
             {
-                "name": "Abdul Hakeem, Pakistan",
+                "name": "Abdul Hakeem",
                 "type": "City"
             },
             {
-                "name": "Atari, Pakistan",
+                "name": "Atari",
                 "type": "Town"
             },
             {
@@ -495,7 +495,7 @@
                 "type": "Town"
             },
             {
-                "name": "Ajnala, Pakistan",
+                "name": "Ajnala",
                 "type": "Town"
             },
             {
@@ -507,7 +507,7 @@
                 "type": "Village"
             },
             {
-                "name": "Atma Singh, Pakistan",
+                "name": "Atma Singh",
                 "type": "Village"
             },
             {
@@ -627,7 +627,7 @@
                 "type": "Village"
             },
             {
-                "name": "Gunja, Pakistan",
+                "name": "Gunja",
                 "type": "Town"
             },
             {
@@ -647,7 +647,7 @@
                 "type": "City"
             },
             {
-                "name": "Jaura, Pakistan",
+                "name": "Jaura",
                 "type": "Town"
             },
             {
@@ -663,7 +663,7 @@
                 "type": "Town"
             },
             {
-                "name": "Kharian Tehsil",
+                "name": "Kharian",
                 "type": "Village"
             },
             {
@@ -703,7 +703,7 @@
                 "type": "Village"
             },
             {
-                "name": "Malka, Pakistan",
+                "name": "Malka",
                 "type": "Town"
             },
             {
@@ -723,7 +723,7 @@
                 "type": "Town"
             },
             {
-                "name": "Mirza Tahir, Punjab",
+                "name": "Mirza Tahir",
                 "type": "Village"
             },
             {
@@ -784,7 +784,7 @@
                 "type": "Village"
             },
             {
-                "name": "Bairi, Pakistan",
+                "name": "Bairi",
                 "type": "Village"
             },
             {
@@ -792,7 +792,7 @@
                 "type": "Town"
             },
             {
-                "name": "Chakchohdu village",
+                "name": "Chakchohdu",
                 "type": "Village"
             },
             {
@@ -852,7 +852,7 @@
                 "type": "City"
             },
             {
-                "name": "Pasrur Tehsil",
+                "name": "Pasrur",
                 "type": "Village"
             },
             {
@@ -864,7 +864,7 @@
                 "type": "Village"
             },
             {
-                "name": "Sadda, Punjab",
+                "name": "Sadda",
                 "type": "Town"
             },
             {
@@ -880,7 +880,7 @@
                 "type": "Town"
             },
             {
-                "name": "Wan, Pakistan",
+                "name": "Wan",
                 "type": "Village"
             }
         ]
@@ -893,7 +893,7 @@
                 "type": "Village"
             },
             {
-                "name": "Agra, Punjab",
+                "name": "Agra",
                 "type": "Town"
             },
             {
@@ -921,7 +921,7 @@
                 "type": "City"
             },
             {
-                "name": "Gulistan, Punjab",
+                "name": "Gulistan",
                 "type": "Town"
             },
             {
@@ -929,7 +929,7 @@
                 "type": "Village"
             },
             {
-                "name": "Qasimabad, Punjab",
+                "name": "Qasimabad",
                 "type": "Town"
             },
             {
@@ -954,7 +954,7 @@
                 "type": "Village"
             },
             {
-                "name": "Anga, Punjab",
+                "name": "Anga",
                 "type": "Village"
             },
             {
@@ -962,7 +962,7 @@
                 "type": "Village"
             },
             {
-                "name": "Bijar, Punjab",
+                "name": "Bijar",
                 "type": "Village"
             },
             {
@@ -1046,7 +1046,7 @@
                 "type": "City"
             },
             {
-                "name": "Kufri, Pakistan",
+                "name": "Kufri",
                 "type": "Village"
             },
             {
@@ -1062,15 +1062,15 @@
                 "type": "Village"
             },
             {
-                "name": "Nari, Punjab",
+                "name": "Nari",
                 "type": "Village"
             },
             {
-                "name": "Naushera, Punjab",
+                "name": "Naushera",
                 "type": "Town"
             },
             {
-                "name": "Noorpur, Punjab",
+                "name": "Noorpur",
                 "type": "City"
             },
             {
@@ -1086,15 +1086,15 @@
                 "type": "Village"
             },
             {
-                "name": "Rajar, Khushab",
+                "name": "Rajar",
                 "type": "Village"
             },
             {
-                "name": "Rangpur, Punjab",
+                "name": "Rangpur",
                 "type": "Town"
             },
             {
-                "name": "Roda, Punjab",
+                "name": "Roda",
                 "type": "Village"
             },
             {
@@ -1143,7 +1143,7 @@
                 "type": "Village"
             },
             {
-                "name": "Chaklala, Rawalpindi",
+                "name": "Chaklala",
                 "type": "Town"
             },
             {
@@ -1163,7 +1163,7 @@
                 "type": "Village"
             },
             {
-                "name": "Devi, Punjab",
+                "name": "Devi",
                 "type": "Town"
             },
             {
@@ -1280,11 +1280,11 @@
         "name": "Jhelum",
         "cities": [
             {
-                "name": "Adrana, Jhelum",
+                "name": "Adrana",
                 "type": "Village"
             },
             {
-                "name": "Ahmedabad, Jhelum",
+                "name": "Ahmedabad",
                 "type": "Village"
             },
             {
@@ -1348,7 +1348,7 @@
                 "type": "Village"
             },
             {
-                "name": "Daulatpur, Jhelum",
+                "name": "Daulatpur",
                 "type": "Village"
             },
             {
@@ -1376,7 +1376,7 @@
                 "type": "Village"
             },
             {
-                "name": "Gujjar, Jhelum",
+                "name": "Gujjar",
                 "type": "Village"
             },
             {
@@ -1408,11 +1408,11 @@
                 "type": "Village"
             },
             {
-                "name": "Kohali, Jhelum",
+                "name": "Kohali",
                 "type": "Village"
             },
             {
-                "name": "Kora Punjab",
+                "name": "Kora ",
                 "type": "Village"
             },
             {
@@ -1420,11 +1420,11 @@
                 "type": "Village"
             },
             {
-                "name": "Lehri, Jhelum",
+                "name": "Lehri",
                 "type": "Village"
             },
             {
-                "name": "Lilla, Jhelum",
+                "name": "Lilla",
                 "type": "Village"
             },
             {
@@ -1436,7 +1436,7 @@
                 "type": "Village"
             },
             {
-                "name": "Monan, Punjab",
+                "name": "Monan",
                 "type": "Village"
             },
             {
@@ -1448,7 +1448,7 @@
                 "type": "Village"
             },
             {
-                "name": "Nagial, Jhelum",
+                "name": "Nagial",
                 "type": "Village"
             },
             {
@@ -1460,7 +1460,7 @@
                 "type": "Village"
             },
             {
-                "name": "Nara, Jhelum",
+                "name": "Nara",
                 "type": "Village"
             },
             {
@@ -1472,7 +1472,7 @@
                 "type": "Village"
             },
             {
-                "name": "Pandori, Jhelum",
+                "name": "Pandori",
                 "type": "Village"
             },
             {
@@ -1508,7 +1508,7 @@
                 "type": "Village"
             },
             {
-                "name": "Saroba Punjab",
+                "name": "Saroba ",
                 "type": "Village"
             },
             {
@@ -1532,7 +1532,7 @@
                 "type": "Town"
             },
             {
-                "name": "Sultanpur, Jhelum",
+                "name": "Sultanpur",
                 "type": "Village"
             },
             {
@@ -1557,7 +1557,7 @@
                 "type": "Village"
             },
             {
-                "name": "Bhikhi, Pakistan",
+                "name": "Bhikhi",
                 "type": "Town"
             },
             {
@@ -1585,11 +1585,11 @@
                 "type": "Village"
             },
             {
-                "name": "Dilawar, Punjab",
+                "name": "Dilawar",
                 "type": "Village"
             },
             {
-                "name": "Gulzar, Punjab",
+                "name": "Gulzar",
                 "type": "Village"
             },
             {
@@ -1637,7 +1637,7 @@
                 "type": "City"
             },
             {
-                "name": "Malikwal Tehsil",
+                "name": "Malikwal",
                 "type": "Village"
             },
             {
@@ -1649,7 +1649,7 @@
                 "type": "City"
             },
             {
-                "name": "Mangat, Pakistan",
+                "name": "Mangat",
                 "type": "Town"
             },
             {
@@ -1657,7 +1657,7 @@
                 "type": "Town"
             },
             {
-                "name": "Mong, Punjab",
+                "name": "Mong",
                 "type": "Town"
             },
             {
@@ -1665,7 +1665,7 @@
                 "type": "Town"
             },
             {
-                "name": "Nain, Punjab",
+                "name": "Nain",
                 "type": "Town"
             },
             {
@@ -1681,7 +1681,7 @@
                 "type": "City"
             },
             {
-                "name": "Rasul, Punjab",
+                "name": "Rasul",
                 "type": "Town"
             },
             {
@@ -1701,7 +1701,7 @@
                 "type": "Town"
             },
             {
-                "name": "Wasu, Punjab",
+                "name": "Wasu",
                 "type": "Town"
             }
         ]
@@ -1710,7 +1710,7 @@
         "name": "Okara",
         "cities": [
             {
-                "name": "Ahmadabad, Pakistan",
+                "name": "Ahmadabad",
                 "type": "Town"
             },
             {
@@ -1742,7 +1742,7 @@
                 "type": "Town"
             },
             {
-                "name": "Kaman, Pakistan",
+                "name": "Kaman",
                 "type": "Town"
             },
             {
@@ -1754,11 +1754,11 @@
                 "type": "Town"
             },
             {
-                "name": "Okara, Pakistan",
+                "name": "Okara",
                 "type": "Capital"
             },
             {
-                "name": "Okara, Pakistan",
+                "name": "Okara",
                 "type": "City"
             },
             {
@@ -1888,7 +1888,7 @@
                 "type": "City"
             },
             {
-                "name": "Khosa, Punjab",
+                "name": "Khosa",
                 "type": "Town"
             },
             {
@@ -1900,7 +1900,7 @@
                 "type": "Town"
             },
             {
-                "name": "Muhammadgarh, Pakistan",
+                "name": "Muhammadgarh",
                 "type": "Town"
             },
             {
@@ -1990,11 +1990,11 @@
                 "type": "Village"
             },
             {
-                "name": "Basal, Pakistan",
+                "name": "Basal",
                 "type": "Village"
             },
             {
-                "name": "Basia, Pakistan",
+                "name": "Basia",
                 "type": "Village"
             },
             {
@@ -2038,23 +2038,23 @@
                 "type": "City"
             },
             {
-                "name": "Jand Tehsil",
+                "name": "Jand",
                 "type": "Village"
             },
             {
-                "name": "Lawrencepur, Punjab, Pakistan",
+                "name": "Lawrencepur",
                 "type": "Town"
             },
             {
-                "name": "Mansar, Pakistan",
+                "name": "Mansar",
                 "type": "Town"
             },
             {
-                "name": "Momanpur, Pakistan",
+                "name": "Momanpur",
                 "type": "Village"
             },
             {
-                "name": "Musa, Pakistan",
+                "name": "Musa",
                 "type": "Village"
             },
             {
@@ -2062,7 +2062,7 @@
                 "type": "Village"
             },
             {
-                "name": "Shamsabad, Pakistan",
+                "name": "Shamsabad",
                 "type": "Village"
             },
             {
@@ -2070,7 +2070,7 @@
                 "type": "Village"
             },
             {
-                "name": "Thatta, Punjab",
+                "name": "Thatta",
                 "type": "Town"
             }
         ]
@@ -2079,7 +2079,7 @@
         "name": "Toba Tek Singh",
         "cities": [
             {
-                "name": "Aligarh, Pakistan",
+                "name": "Aligarh",
                 "type": "Town"
             },
             {
@@ -2127,7 +2127,7 @@
                 "type": "City"
             },
             {
-                "name": "Randian, Pakistan",
+                "name": "Randian",
                 "type": "Town"
             },
             {
@@ -2188,7 +2188,7 @@
                 "type": "Town"
             },
             {
-                "name": "Chahal, Kasur",
+                "name": "Chahal",
                 "type": "Village"
             },
             {
@@ -2220,7 +2220,7 @@
                 "type": "Village"
             },
             {
-                "name": "Gohar, Pakistan",
+                "name": "Gohar",
                 "type": "Village"
             },
             {
@@ -2228,7 +2228,7 @@
                 "type": "Village"
             },
             {
-                "name": "Govindpura, Pakistan",
+                "name": "Govindpura",
                 "type": "Village"
             },
             {
@@ -2236,7 +2236,7 @@
                 "type": "Village"
             },
             {
-                "name": "Halla, Punjab",
+                "name": "Halla",
                 "type": "Town"
             },
             {
@@ -2288,7 +2288,7 @@
                 "type": "City"
             },
             {
-                "name": "Kotha, Punjab",
+                "name": "Kotha",
                 "type": "Town"
             },
             {
@@ -2296,15 +2296,15 @@
                 "type": "Town"
             },
             {
-                "name": "Kull, Punjab",
+                "name": "Kull",
                 "type": "Town"
             },
             {
-                "name": "Matta, Punjab",
+                "name": "Matta",
                 "type": "Town"
             },
             {
-                "name": "Matta, Punjab",
+                "name": "Matta",
                 "type": "Village"
             },
             {
@@ -2390,12 +2390,8 @@
         ]
     },
     {
-        "name": "",
+        "name": "others",
         "cities": [
-            {
-                "name": "Ambar, Khyber Pakhtunkhwa",
-                "type": "Village"
-            },
             {
                 "name": "Bahawalpur",
                 "type": "City"
@@ -2417,7 +2413,7 @@
                 "type": "Village"
             },
             {
-                "name": "Boken, Pakistan",
+                "name": "Boken",
                 "type": "Village"
             },
             {
@@ -2437,7 +2433,7 @@
                 "type": "Village"
             },
             {
-                "name": "Dina, Pakistan",
+                "name": "Dina",
                 "type": "Town"
             },
             {
@@ -2449,12 +2445,8 @@
                 "type": "Village"
             },
             {
-                "name": "Khairo, Punjab",
+                "name": "Khairo",
                 "type": "Town"
-            },
-            {
-                "name": "[[Kot Nakka]\u00ed]]",
-                "type": ""
             },
             {
                 "name": "Kumarwala",
@@ -2469,7 +2461,7 @@
                 "type": "Village"
             },
             {
-                "name": "Longo, Pakistan",
+                "name": "Longo",
                 "type": "Village"
             },
             {
@@ -2481,7 +2473,7 @@
                 "type": "Village"
             },
             {
-                "name": "Luni (Punjab)",
+                "name": "Luni ()",
                 "type": "Village"
             },
             {
@@ -2565,7 +2557,7 @@
                 "type": "Village"
             },
             {
-                "name": "Puna, Pakistan",
+                "name": "Puna",
                 "type": "Village"
             },
             {
@@ -2593,11 +2585,11 @@
                 "type": "Village"
             },
             {
-                "name": "Rathor, Pakistan",
+                "name": "Rathor",
                 "type": "Village"
             },
             {
-                "name": "Ratta, Punjab",
+                "name": "Ratta",
                 "type": "Village"
             },
             {
@@ -2605,7 +2597,7 @@
                 "type": "Town"
             },
             {
-                "name": "Rupal, Punjab",
+                "name": "Rupal",
                 "type": "Village"
             },
             {
@@ -2613,7 +2605,7 @@
                 "type": "Town"
             },
             {
-                "name": "Sawer, Pakistan",
+                "name": "Sawer",
                 "type": "Village"
             },
             {
@@ -2625,7 +2617,7 @@
                 "type": "City"
             },
             {
-                "name": "Sluice, Pakistan",
+                "name": "Sluice",
                 "type": "Village"
             },
             {
@@ -2645,7 +2637,7 @@
                 "type": "Village"
             },
             {
-                "name": "Taran Taran, Pakistan",
+                "name": "Taran Taran",
                 "type": "Village"
             },
             {
@@ -2674,7 +2666,7 @@
                 "type": "City"
             },
             {
-                "name": "Banga, Pakistan",
+                "name": "Banga",
                 "type": "Village"
             },
             {
@@ -2682,7 +2674,7 @@
                 "type": "Village"
             },
             {
-                "name": "Chicha, Pakistan",
+                "name": "Chicha",
                 "type": "Village"
             },
             {
@@ -2698,7 +2690,7 @@
                 "type": "City"
             },
             {
-                "name": "Jagdeo, Pakistan",
+                "name": "Jagdeo",
                 "type": "Village"
             },
             {
@@ -2722,7 +2714,7 @@
                 "type": "Town"
             },
             {
-                "name": "Surajpur, Pakistan",
+                "name": "Surajpur",
                 "type": "Town"
             },
             {
@@ -2755,7 +2747,7 @@
                 "type": "City"
             },
             {
-                "name": "Vehari Tehsil",
+                "name": "Vehari",
                 "type": "Village"
             },
             {
@@ -2817,7 +2809,7 @@
                 "type": "Village"
             },
             {
-                "name": "Faizpur, Pakistan",
+                "name": "Faizpur",
                 "type": "Village"
             },
             {
@@ -2830,7 +2822,7 @@
         "name": "Chakwal",
         "cities": [
             {
-                "name": "Arra, Pakistan",
+                "name": "Arra",
                 "type": "Village"
             },
             {
@@ -2850,7 +2842,7 @@
                 "type": "Village"
             },
             {
-                "name": "Basra, Pakistan",
+                "name": "Basra",
                 "type": "Village"
             },
             {
@@ -2902,7 +2894,7 @@
                 "type": "Village"
             },
             {
-                "name": "Chakora, Pakistan",
+                "name": "Chakora",
                 "type": "Village"
             },
             {
@@ -2918,7 +2910,7 @@
                 "type": "Village"
             },
             {
-                "name": "Choa Saidan Shah Tehsil",
+                "name": "Choa Saidan Shah",
                 "type": "Village"
             },
             {
@@ -2926,7 +2918,7 @@
                 "type": "Town"
             },
             {
-                "name": "Dab, Pakistan",
+                "name": "Dab",
                 "type": "Village"
             },
             {
@@ -3014,7 +3006,7 @@
                 "type": "Village"
             },
             {
-                "name": "Jaswal, Pakistan",
+                "name": "Jaswal",
                 "type": "Village"
             },
             {
@@ -3070,7 +3062,7 @@
                 "type": "Village"
             },
             {
-                "name": "Leti, Punjab",
+                "name": "Leti",
                 "type": "Village"
             },
             {
@@ -3110,7 +3102,7 @@
                 "type": "Village"
             },
             {
-                "name": "N\u0101rag",
+                "name": "Narag",
                 "type": "Town"
             },
             {
@@ -3293,7 +3285,7 @@
                 "type": "City"
             },
             {
-                "name": "Hadda, Pakistan",
+                "name": "Hadda",
                 "type": "Village"
             },
             {
@@ -3321,7 +3313,7 @@
                 "type": "Village"
             },
             {
-                "name": "Mona Punjab",
+                "name": "Mona ",
                 "type": "Village"
             },
             {
@@ -3357,11 +3349,11 @@
                 "type": "Town"
             },
             {
-                "name": "Shahpur, Punjab",
+                "name": "Shahpur",
                 "type": "City"
             },
             {
-                "name": "Shahpur, Punjab",
+                "name": "Shahpur",
                 "type": "City"
             },
             {
@@ -3455,7 +3447,7 @@
                 "type": "Town"
             },
             {
-                "name": "Kalyan, Pakistan",
+                "name": "Kalyan",
                 "type": "Village"
             },
             {
@@ -3475,7 +3467,7 @@
                 "type": "Town"
             },
             {
-                "name": "Lehna Singhwala, Punjab",
+                "name": "Lehna Singhwala",
                 "type": "Village"
             },
             {
@@ -3487,7 +3479,7 @@
                 "type": "Town"
             },
             {
-                "name": "Miranpur, Punjab",
+                "name": "Miranpur",
                 "type": "Town"
             },
             {
@@ -3503,7 +3495,7 @@
                 "type": "Town"
             },
             {
-                "name": "Rampur, Punjab",
+                "name": "Rampur",
                 "type": "Town"
             },
             {
@@ -3560,11 +3552,11 @@
                 "type": "Village"
             },
             {
-                "name": "Syedwala, Punjab",
+                "name": "Syedwala",
                 "type": "City"
             },
             {
-                "name": "Warburton, Punjab, Pakistan",
+                "name": "Warburton",
                 "type": "Town"
             }
         ]
@@ -3692,7 +3684,7 @@
                 "type": "Village"
             },
             {
-                "name": "Khar, Punjab",
+                "name": "Khar",
                 "type": "Town"
             },
             {
@@ -3750,6 +3742,10 @@
             },
             {
                 "name": "Thatha shamsa",
+                "type": "Village"
+            },
+            {
+                "name": "Kot Nakka",
                 "type": "Village"
             }
         ]
@@ -3954,7 +3950,7 @@
         "name": "Tank",
         "cities": [
             {
-                "name": "Tank, Pakistan",
+                "name": "Tank",
                 "type": "Capital"
             }
         ]
