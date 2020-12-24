@@ -5,7 +5,10 @@ from bs4 import BeautifulSoup
 import pprint
 
 
-res = requests.get(r"https://en.wikipedia.org/wiki/List_of_cities_in_Gilgit_Baltistan")
+res = requests.get(r"https://en.wikipedia.org/wiki/List_of_populated_places_in_Punjab_(Pakistan)")
+# https://en.wikipedia.org/wiki/List_of_populated_places_in_Punjab_(Pakistan)
+# https://en.wikipedia.org/wiki/List_of_cities_in_Gilgit_Baltistan
+
 soup = BeautifulSoup(res.text, "html.parser")
 
 rows = soup.find_all("tr")
@@ -53,7 +56,7 @@ for district in districts:
     cities.append(city_td)
         
 import json
-with open('gilgitBaltistan.json', 'w') as fp:
+with open('punjab.json', 'w') as fp:
     json.dump(dumps, fp)
 
 
